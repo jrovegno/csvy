@@ -1,8 +1,12 @@
 ---
-title: USD/CLP
+title: Cushing, OK WTI Spot Price FOB
 filename: data.csv
-url: www.oanda.com/currency/historical-rates/
+url: https://raw.githubusercontent.com/jrovegno/csvy/master/data.csv
+source: http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=RWTC&f=D
+item: PET
+sourcekey: RWTC
 freq: Daily
 rate: MID
-type: currency
+type: price
+units: Dollars per Barrel
 ---
