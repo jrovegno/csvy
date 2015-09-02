@@ -1,2 +1,2 @@
-# rawdata
-Datasets in csv
+# CSVY yaml frontmatter for csv file format
+Files examples
